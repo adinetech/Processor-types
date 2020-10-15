@@ -1,2 +1,3 @@
 # PC Processors
-ARM And X64 Processors
+## Types of Processors on PC 
+### Arm and x64
