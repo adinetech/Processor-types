@@ -1,4 +1,4 @@
-# Types of Processors on PC 
+# Types of Processors
 ## Arm based and x64 based Processor's
 ## Arm based Processor's
 ARM Processor are Mobile and Developement board based Processor, those won't be used on New Pc, ARM processors only offer these basic instructions. Thus, a reduced instruction set  ARM processors use less power than x86/x64 processors at the same clock speed.Usually ARM Processor used on Mobiles and Development board rather than Pc
