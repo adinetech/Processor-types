@@ -15,3 +15,5 @@ so processor making company Like Qualcomm ,Mediatek are started Building ARM Pro
 x86-64 processor is Battery drainer,that can be used on laptop but Intel and AMD Used Low power Processor on Laptop and High Power on Pc and x86_64 Uses minimum of 5watt , But the latest Qualcomm Snapdragon 865+ is Flagship ARM Processor for Mobile and that Processor just use 5 Watt
 ## 5.Windows support on ARM
 Look Here To Learn More about Windows on ARM Support - https://docs.microsoft.com/en-us/windows/arm/
+
+# I will do Edit on Future inorder to add more about Processor , Thanks :D
