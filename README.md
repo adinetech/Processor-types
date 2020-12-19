@@ -12,9 +12,9 @@ x86-64 Has More Software Support and that can able to handle ARM Apps Via Emulat
 x86-64 can't be Assembled on Mobile Mother Board, the proper reason x86-64 uses More Power and Produces more heat 
 so processor making company Like Qualcomm ,Mediatek are started Building ARM Processor for Mobile 
 ## 4.Battery Life
-x86-64 processor is Battery drainer,that can be used on laptop but Intel and AMD Used Low power Processor on Laptop and High Power on Pc and x86_64 Uses minimum of 5watt , But the latest Qualcomm Snapdragon 865+ is Flagship ARM Processor for Mobile and that Processor just use 5 Watt
+x86-64 processor is Battery drainer,that can be used on laptop but Intel and AMD Used Low power Processor on Laptop and High Power on Pc and x86_64 Uses minimum of 5watt , But the latest Qualcomm Snapdragon 888 is Flagship ARM Processor for Mobile and that Processor just use 5 Watt and has support for the rolling out 5G
 ## 5.Windows support on ARM
 Look Here To Learn More about Windows on ARM Support - https://docs.microsoft.com/en-us/windows/arm/
 
-### I will do Edit's on Future,inorder to add more about Processor's , Thanks :D
+Apple INC Has realesed a new set of ARM proccesers in the 'apple silicon' range To compete with mostly x86 based intel and amd proccessers.
 
