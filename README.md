@@ -26,7 +26,9 @@ These are the reason why x86-64 are mostly used in P.C and ARM is mostly used in
 Windows, Linux and MacOS are the major operating systems for x86 and x64 processors. Though Android can run on the x86 platform, it is not ideal for everyday use and also has some campatibilty issues with ARM apps for Android.
 
 ## ARM:
-Linux and Android are the major operating systems for ARM devices. Since both of them are free and open-source, they can be compiled for almost any processor architecture.
+Linux and Android are the major operating systems for ARM devices. Since both of them are free and open-source, they can be compiled for almost any processor architecture. Apple is switching to ARM with their new generation of Macbooks that ship with a custom ARM based processor called the <strong>Apple M1</strong>
+This same M1 processor is also present in the new Apple iPhone 12 and iPad Air and is very powerful too.
+
 
 Because of the popularity of ARM, Microsoft has released a special version of Windows that runs on ARM with x86 and x64 emulation. A good example of this is WOR
 or Windows On Raspberry Pi, this project aims to bring full version of Windows 10 on the popular ARM based single board computer Raspberry pi. Another example is Microsoft's Pro X which runs on Microsoft's ARM based processor the <strong>SQ1</strong>
