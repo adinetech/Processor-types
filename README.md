@@ -1,18 +1,18 @@
 # Types of Processors
 ## Arm based and x64 based Processor's
 
->NOTE: wherever the term `x86` is used, it also means x64 unless specified.
+>NOTE: wherever the term `x86` is used, it also means `x64` unless specified.
 
 ## 1.Arm based Processor's
 ARM Processor are Mobile and Developement board based Processor, those won't be used on New Pc, ARM processors only offer these basic instructions. Thus, a reduced instruction set  ARM processors use less power than x86/x64 processors at the same clock speed.Usually ARM Processor used on Mobiles and Development board rather than Pc
 Companies such as Qualcomm, Mediatek use ARM architecture, these chips are mostly made for mobile phones but are also used in single board computers such as a Raspberry pi and ARM-based laptops such as a pinebook pro. ARM only makes the design for the processors, and don't manufature any. Instead it licenses these rights to other companies such as Samsung,Qualcomm, Mediatek etc who then use this design to make custom processors based on the ARM architecture.
 
 ## 2.x86 And 64 based Processors
-##x64
+## x64
 x64 stands for 64-bit processor architecture, which is found in most modern computers. They can handle more amount of ram as compared to x86 processors
 Also known as <strong>AMD 64</strong> as AMD made this architecture first.
 
-##x86
+## x86
 x86 stands for 32Bit Processors, which is only found in old computers. They can only handle mostly up to 4 gb of ram. There are some exceptions for x86 processors with PAE capability which allows it to handle up to 64 gb of ram. Also known as  as Intel made this architecture first.
 Intel and AMD are the major manufacturers for x86 and x64 processors.
 
@@ -22,7 +22,7 @@ There were some x86-64 based mobile phones that lasted not too long such as Senw
 These are the reason why x86-64 are mostly used in P.C and ARM is mostly used in mobile platform
 
 # Operating Systems:
-##x86-64:
+## x86-64:
 Windows, Linux and MacOS are the major operating systems for x86 and x64 processors. Though Android can run on the x86 platform, it is not ideal for everyday use and also has some campatibilty issues with ARM apps for Android.
 
 ## ARM:
