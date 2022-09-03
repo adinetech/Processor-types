@@ -4,8 +4,8 @@
 >NOTE: wherever the term `x86` is used, it also means `x64` unless specified.
 
 ## 1.Arm based Processor's
-ARM Processor are Mobile and Developement board based Processor, those won't be used on New Pc, ARM processors only offer these basic instructions. Thus, a reduced instruction set  ARM processors use less power than x86/x64 processors at the same clock speed.Usually ARM Processor used on Mobiles and Development board rather than Pc
-Companies such as Qualcomm, Mediatek use ARM architecture, these chips are mostly made for mobile phones but are also used in single board computers such as a Raspberry pi and ARM-based laptops such as a pinebook pro. ARM only makes the design for the processors, and don't manufature any. Instead it licenses these rights to other companies such as Samsung,Qualcomm, Mediatek etc who then use this design to make custom processors based on the ARM architecture.
+ARM Processor are Mobile and Developement board based Processor. ARM processors offer a reduced instruction set  ARM processors use less power than x86/x64 processors at the same clock speed.Usually ARM Processor used on Mobiles and Development board rather than Pc.
+Companies such as Qualcomm, Mediatek, Apple use ARM architecture, these chips are mostly made for mobile phones but are also used in single board computers such as a Raspberry pi and ARM-based laptops such as a pinebook pro, Even The latest Apple M series chips use ARM-architecture (eg:M1, M2). ARM only makes the design for the processors, and don't manufature any. Instead it licenses these rights to other companies such as Samsung, Qualcomm, Mediatek, Apple etc who then use this design to make custom processors based on the ARM architecture.
 
 ## 2.x86 And 64 based Processors
 ## x64
@@ -42,7 +42,7 @@ ARM processer executes one instruction at a time and it requires less power comp
 Below are some links for more indepth information:
 
 x86:
-https://en.wikipedia.org/wiki/ARM_architecture
+https://en.wikipedia.org/wiki/X86
 
 ARM:
 https://en.wikipedia.org/wiki/ARM_architecture
